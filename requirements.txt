@@ -1,0 +1,6 @@
+requests
+Pillow
+spotipy
+pixoo
+six
+python-dotenv
