@@ -1,6 +1,8 @@
 # pixoo64-spotify-docker
 Displays album art of currently playing songs from Spotify on Pixoo 64 screen with a clock in the lower right corner
 
+![signal-2025-02-06-114652_002](https://github.com/user-attachments/assets/7e8b1b7f-b84b-4a5b-b1a7-6e2c62fd68d0)
+
 Setup:
 - Create a `.env` file in the root directory of the project
 - Add your Pixoo 64's IP address, Spotify client ID, and Spotify client URI to the `.env` file as shown below:
